@@ -5,6 +5,10 @@ This analysis aims to provide insights into the usage of CitiBike bicycle rental
 
 ## Results
 
+### Dashboard
+
+[link to dashboard](link to dashboard"](https://public.tableau.com/app/profile/guillermo.walter.galguera/viz/201908-citibike-dashboard/Story?publish=yes)
+
 ### Checkout Times for Users.
 This visualization shows the distribution of checkout times throughout the day. We can see that subscribers are more likely to use the bicycles less than one hours, the most common trip time is 5 minutes.
 
